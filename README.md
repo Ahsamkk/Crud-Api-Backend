@@ -21,3 +21,4 @@ A simple CRUD API built using Node.js, Express, and MongoDB for managing product
 - Node.js
 - Express
 - MongoDB
+- Mongoose
